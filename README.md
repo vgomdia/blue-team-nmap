@@ -35,3 +35,37 @@ blue-team-labs/
 
 └── tcpdump-cheatsheet.md
 
+
+---
+
+## ✅ Prácticas realizadas
+
+| Práctica                    | Herramientas       | Estado  |
+|-----------------------------|--------------------|---------|
+| 🔍 Detección de escaneo Nmap| `nmap`, `tcpdump`  | ✅ Completado |
+| 🔐 Firewall básico `ufw`    | `ufw`              | 🔜 Próximamente |
+| 🚨 Detección con Snort      | `snort`            | 🔜 Planificado |
+| 🕵️ Análisis de logs SSH     | `auth.log`, `fail2ban` | 🔜 Planificado |
+
+---
+
+## 📌 Requisitos para replicar
+
+- VirtualBox instalado y funcional
+- Kali Linux como sistema anfitrión
+- Ubuntu Server o VM Linux como víctima
+- Red interna configurada: `LABNET`
+- Espacio en disco recomendado: 20GB+
+
+---
+
+## 📬 Contacto & Créditos
+
+> Vicente Gómez Díaz  
+> 🇪🇸 Barcelona, España  
+> ✉️ Contacto: [vgomdia@uoc.edu]  
+> 👨‍💻 Ingeniería Informática | Ciberseguridad | Blue Team
+
+---
+
+> Este repositorio está en evolución constante como parte de mi formación práctica para convertirme en **analista SOC / Blue Teamer** en un inicio.
