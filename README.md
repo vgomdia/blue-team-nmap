@@ -20,10 +20,18 @@ Bienvenido a mi laboratorio de **ciberseguridad defensiva (Blue Team)**, diseña
 ## 📁 Estructura del repositorio
 blue-team-labs/
 ├── README.md
+
 ├── nmap-blue-team-lab.md # Práctica de escaneo detectado con tcpdump
+
 ├── captures/ # Capturas .pcap de tráfico real
+
 │ └── scan-full.pcap
+
 ├── screenshots/ # Evidencias visuales de terminal
+
 │ └── tcpdump-scan.png
+
 └── notes/ # Apuntes y comandos clave
+
 └── tcpdump-cheatsheet.md
+
